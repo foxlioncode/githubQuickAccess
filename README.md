@@ -1,6 +1,6 @@
 # GitHub Quick Access Desktop Utility (githubQuickAccess)
 
-## [Video]
+## https://player.vimeo.com/video/343584931
 
 ## About
 
@@ -36,7 +36,11 @@
 - You can move from an abstract idea to written code immediately without having to navigate through the tedious setup procedures.
 - Once you are ready to share an idea, you are only a single click away from doing so.
 
+---
+
 ## Features Built Using
+
+<img src="assets\python-logo-generic.svg" alt="drawing" width="300"/>
 
 ### [Python 3.7.3](https://www.python.org/ )
 
@@ -45,6 +49,8 @@
   - [json](https://docs.python.org/3.7/library/json.html "JSON encoder and decoder")
   - [requests](https://pypi.org/project/requests/, "pip install requests")
   - [pyperclip](https://pypi.org/project/pyperclip/ "pip install pyperclip")
+
+<img src="assets\github.svg" alt="drawing" width="200"/>
 
 ### [GitHub API v3](https://developer.github.com/v3/)
 
@@ -72,7 +78,7 @@
 
 <!-- ===================================================== -->
 
-## Outline
+<!-- ## Outline
 
 - Video demo of desktop GitHub features:
   - (1) Create a GitHub repository locally.
@@ -88,13 +94,13 @@
 - Other Methods (Contrast):
   - Manually
     - Workflow:
-      - Idea --> Log into GitHub --> Create new repo on GitHub  --> Clone GitHub repo to local machine --> Start coding idea --> Push code to GitHub repo --> Share code
+      - Idea -> Log into GitHub -> Create new repo on GitHub  -> Clone GitHub repo to local machine -> Start coding idea -> Push code to GitHub repo -> Share code
         - Lots of navigation, need to sign in.
-      - Idea --> Start coding idea locally --> Log into GitHub --> Create new repo on GitHub --> Set up git remote for local project --> Push code to GitHub  --> Share code
+      - Idea -> Start coding idea locally -> Log into GitHub -> Create new repo on GitHub -> Set up git remote for local project -> Push code to GitHub  -> Share code
         - Lots of navigation, need to sign in.
-      - Idea --> Start coding idea locally --> Create GitHub repo, push to GitHub repo, share code
+      - Idea -> Start coding idea locally -> Create GitHub repo, push to GitHub repo, share code
     - You want to start building usually directly on your local machine.
   - GitHub Desktop
     - Need to open another application. Form-like approach, need to sign in.
   - Selenium Approach
-    - <https://youtu.be/7Y8Ppin12r4>
+    - <https://youtu.be/7Y8Ppin12r4> -->
